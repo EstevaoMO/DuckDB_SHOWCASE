@@ -24,18 +24,19 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
 
 ## Estrutura de Pastas para Navegação
 
+Materiais explicativos e complementares  
 - **[docs](docs/)**  
-  Materiais explicativos e complementares  
   - [slides](docs/slides/)  
+  - [material de apoio](docs/material_apoio/)  
   - [extras](docs/extras/)  
 
+Exemplos práticos em Python e SQL  
 - **[codigos](codigos/)**  
-  Exemplos práticos em Python e SQL  
   - [analise_exploratoria](codigos/analise_exploratoria/)  
   - [etl](codigos/etl/)  
 
+Dados para análises e processos ETL  
 - **[base_dados](base_dados/)**  
-  Dados para análises e processos ETL  
   - [base_tratada](base_dados/base_tratada/)  
 
 ---
