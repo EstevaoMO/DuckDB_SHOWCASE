@@ -16,7 +16,7 @@ O DuckDB é ideal para Análise Exploratória de Dados (EDA), ETL (Extração, T
 - **Operação local e embutida**, evitando dependências externas;
 - **Simplicidade para manipulação e transformação de dados** via SQL padrão.
 
-### Objetivo do Repositório
+## Objetivo do Repositório
 
 Este repositório reúne materiais práticos do DuckDB para análise exploratória e ETL, incluindo documentação, slides, códigos exemplares e bases de dados para apoio no aprendizado e aplicação eficiente da ferramenta em ambientes técnicos e corporativos.
 
