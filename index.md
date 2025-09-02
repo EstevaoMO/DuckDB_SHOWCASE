@@ -24,20 +24,20 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
 
 ## Estrutura de Pastas para Navegação
 
-Materiais explicativos e complementares  
-- **[docs](docs/)**  
-  - [slides](docs/slides/)  
-  - [material de apoio](docs/material_apoio/)  
-  - [extras](docs/extras/)  
+**Materiais explicativos e complementares**  
+> **[\docs](docs/)**  
+  >. [\_slides](docs/_slides/)  
+  >. [\material de apoio](docs/material_apoio/)  
+  >. [\extras](docs/extras/)  
 
-Exemplos práticos em Python e SQL  
-- **[codigos](codigos/)**  
-  - [analise_exploratoria](codigos/analise_exploratoria/)  
-  - [etl](codigos/etl/)  
+**Exemplos práticos em Python e SQL**  
+> **[\codigos](codigos/)**  
+  >. [\analise_exploratoria](codigos/analise_exploratoria/)  
+  >. [\etl](codigos/etl/)  
 
-Dados para análises e processos ETL  
-- **[base_dados](base_dados/)**  
-  - [base_tratada](base_dados/base_tratada/)  
+**Dados para análises e processos ETL**  
+> **[\base_dados](base_dados/)**  
+  >. [\base_tratada](base_dados/base_tratada/)  
 
 ---
 
@@ -46,7 +46,7 @@ Dados para análises e processos ETL
 Para aproveitar ao máximo o conteúdo deste repositório, recomenda-se seguir a seguinte ordem:
 
 1. **Introdução e fundamentos**  
-   Explore os materiais em **[docs/slides](docs/slides/)** para compreender os conceitos básicos do DuckDB e suas aplicações.
+   Explore os materiais em **[docs/_slides](docs/_slides/)** para compreender os conceitos básicos do DuckDB e suas aplicações.
 
 2. **Bases de Dados**  
    Familiarize-se com os dados disponíveis em **[base_dados](base_dados/)** para entender o contexto dos exemplos.
