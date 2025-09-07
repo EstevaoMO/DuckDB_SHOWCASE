@@ -1,4 +1,4 @@
-# DuckDB para Análise Exploratória e ETL com Python
+# DuckDB para Análise Exploratória com Python
 
 Este repositório reúne arquivos de protótipos, bases de dados, documentação e slides de um seminário prático sobre o uso do DuckDB para Análise Exploratória de Dados (EDA) e Processos de ETL, integrados ao ambiente Python. 
 
