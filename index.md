@@ -31,7 +31,6 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
 **Exemplos práticos em Python e SQL**  
 > **[\codigos](codigos/)**  
   >. [\analise_exploratoria](codigos/analise_exploratoria/)  
-  >. [\etl](codigos/etl/)  
 
 **Dados para análises e processos ETL**  
 > **[\base_dados](base_dados/)** 
@@ -47,15 +46,12 @@ Para aproveitar ao máximo o conteúdo deste repositório, recomenda-se seguir a
 
 2. **Bases de Dados**  
    Familiarize-se com os dados disponíveis em **[base_dados](base_dados/)** para entender o contexto dos exemplos.
-   Compreenda o domínio do problema e as necessidades de cada base de dados em **[docs/material_apoio](docs/material_apoio)**.
+   Compreenda o domínio do problema e as necessidades de cada base de dados em **[docs/](docs/)**.
 
 3. **Análise Exploratória**  
    Revise os scripts em **[codigos/analise_exploratoria](codigos/analise_exploratoria/)** para aprender como manipular e explorar os dados com DuckDB e Python.
 
-4. **Processos ETL**  
-   Aprofunde-se nas implementações em **[codigos/etl](codigos/etl/)** para compreender a extração, transformação e carga dos dados utilizando DuckDB.
-
-5. **Materiais Extras**  
-   Consulte conteúdos adicionais e complementares em **[docs/extras](docs/extras/)** para ampliar conhecimentos e práticas.
+4. **Outros Materiais**  
+   Consulte conteúdos adicionais e complementares em **[docs/](docs/)** para ampliar conhecimentos e práticas.
 
 Este percurso oferece uma abordagem estruturada para desenvolver um conhecimento sólido do uso de DuckDB no dia a dia de análise e preparação de dados.
