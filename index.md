@@ -1,4 +1,4 @@
-# Índice e Apresentação do Repositório DuckDB para Análise Exploratória e ETL
+# Índice e Apresentação do Repositório DuckDB para Análise Exploratória
 
 ## Introdução ao DuckDB
 
@@ -18,7 +18,7 @@ O DuckDB é ideal para Análise Exploratória de Dados (EDA), ETL (Extração, T
 
 ## Objetivo do Repositório
 
-Este repositório reúne materiais práticos do DuckDB para análise exploratória e ETL, incluindo documentação, slides, códigos exemplares e bases de dados para apoio no aprendizado e aplicação eficiente da ferramenta em ambientes técnicos e corporativos.
+Este repositório reúne materiais práticos do DuckDB para análise exploratória, incluindo documentação, slides, códigos exemplares e bases de dados para apoio no aprendizado e aplicação eficiente da ferramenta em ambientes técnicos e corporativos.
 
 ---
 
