@@ -33,7 +33,7 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
   >. [\analise_exploratoria](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos/analise_exploratoria)  
 
 **Dados para análises e processos ETL**  
-> **[\base_dados](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/base_dados/)** 
+> **[\base_dados](/base_dados)** 
 
 ---
 
