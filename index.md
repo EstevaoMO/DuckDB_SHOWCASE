@@ -25,15 +25,15 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
 ## Estrutura de Pastas para Navegação
 
 **Materiais explicativos e complementares**  
-> **[\docs](docs/)**  
-  >. [\_slides](docs/_slides/)  
+> **[\docs](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs)**  
+  >. [\_slides](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs/_slides)  
 
 **Exemplos práticos em Python e SQL**  
-> **[\codigos](codigos/)**  
-  >. [\analise_exploratoria](codigos/analise_exploratoria/)  
+> **[\codigos](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos)**  
+  >. [\analise_exploratoria](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos/analise_exploratoria)  
 
 **Dados para análises e processos ETL**  
-> **[\base_dados](base_dados/)** 
+> **[\base_dados](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/base_dados/)** 
 
 ---
 
