@@ -27,8 +27,6 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
 **Materiais explicativos e complementares**  
 > **[\docs](docs/)**  
   >. [\_slides](docs/_slides/)  
-  >. [\material de apoio](docs/material_apoio/)  
-  >. [\extras](docs/extras/)  
 
 **Exemplos práticos em Python e SQL**  
 > **[\codigos](codigos/)**  
@@ -36,8 +34,7 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
   >. [\etl](codigos/etl/)  
 
 **Dados para análises e processos ETL**  
-> **[\base_dados](base_dados/)**  
-  >. [\base_tratada](base_dados/base_tratada/)  
+> **[\base_dados](base_dados/)** 
 
 ---
 
