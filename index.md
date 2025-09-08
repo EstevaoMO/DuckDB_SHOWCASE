@@ -33,7 +33,7 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
   >. [\analise_exploratoria](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos/analise_exploratoria)  
 
 **Dados para análises e processos ETL**  
-> **[\base_dados](/base_dados)** 
+> **[\base_dados](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/base_dados)** 
 
 ---
 
@@ -42,16 +42,16 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
 Para aproveitar ao máximo o conteúdo deste repositório, recomenda-se seguir a seguinte ordem:
 
 1. **Introdução e fundamentos**  
-   Explore os materiais em **[docs/_slides](docs/_slides/)** para compreender os conceitos básicos do DuckDB e suas aplicações.
+   Explore os materiais em **[docs/_slides](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs/_slides)** para compreender os conceitos básicos do DuckDB e suas aplicações.
 
 2. **Bases de Dados**  
-   Familiarize-se com os dados disponíveis em **[base_dados](base_dados/)** para entender o contexto dos exemplos.
+   Familiarize-se com os dados disponíveis em **[base_dados](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/base_dados)** para entender o contexto dos exemplos.
    Compreenda o domínio do problema e as necessidades de cada base de dados em **[docs/](docs/)**.
 
 3. **Análise Exploratória**  
-   Revise os scripts em **[codigos/analise_exploratoria](codigos/analise_exploratoria/)** para aprender como manipular e explorar os dados com DuckDB e Python.
+   Revise os scripts em **[codigos/analise_exploratoria](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos/analise_exploratoria)** para aprender como manipular e explorar os dados com DuckDB e Python.
 
 4. **Outros Materiais**  
-   Consulte conteúdos adicionais e complementares em **[docs/](docs/)** para ampliar conhecimentos e práticas.
+   Consulte conteúdos adicionais e complementares em **[docs/](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs)** para ampliar conhecimentos e práticas.
 
 Este percurso oferece uma abordagem estruturada para desenvolver um conhecimento sólido do uso de DuckDB no dia a dia de análise e preparação de dados.
