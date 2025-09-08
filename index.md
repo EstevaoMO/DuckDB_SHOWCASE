@@ -1,4 +1,4 @@
-# Índice e Apresentação do Repositório DuckDB para Análise Exploratória e ETL
+# Índice e Apresentação do Repositório DuckDB para Análise Exploratória
 
 ## Introdução ao DuckDB
 
@@ -18,23 +18,22 @@ O DuckDB é ideal para Análise Exploratória de Dados (EDA), ETL (Extração, T
 
 ## Objetivo do Repositório
 
-Este repositório reúne materiais práticos do DuckDB para análise exploratória e ETL, incluindo documentação, slides, códigos exemplares e bases de dados para apoio no aprendizado e aplicação eficiente da ferramenta em ambientes técnicos e corporativos.
+Este repositório reúne materiais práticos do DuckDB para análise exploratória, incluindo documentação, slides, códigos exemplares e bases de dados para apoio no aprendizado e aplicação eficiente da ferramenta em ambientes técnicos e corporativos.
 
 ---
 
 ## Estrutura de Pastas para Navegação
 
 **Materiais explicativos e complementares**  
-> **[\docs](docs/)**  
-  >. [\_slides](docs/_slides/)  
+> **[\docs](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs)**  
+  >. [\_slides](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs/_slides)  
 
 **Exemplos práticos em Python e SQL**  
-> **[\codigos](codigos/)**  
-  >. [\analise_exploratoria](codigos/analise_exploratoria/)  
-  >. [\etl](codigos/etl/)  
+> **[\codigos](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos)**  
+  >. [\analise_exploratoria](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos/analise_exploratoria)  
 
 **Dados para análises e processos ETL**  
-> **[\base_dados](base_dados/)** 
+> **[\base_dados](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/base_dados)** 
 
 ---
 
@@ -43,19 +42,16 @@ Este repositório reúne materiais práticos do DuckDB para análise exploratór
 Para aproveitar ao máximo o conteúdo deste repositório, recomenda-se seguir a seguinte ordem:
 
 1. **Introdução e fundamentos**  
-   Explore os materiais em **[docs/_slides](docs/_slides/)** para compreender os conceitos básicos do DuckDB e suas aplicações.
+   Explore os materiais em **[docs/_slides](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs/_slides)** para compreender os conceitos básicos do DuckDB e suas aplicações.
 
 2. **Bases de Dados**  
-   Familiarize-se com os dados disponíveis em **[base_dados](base_dados/)** para entender o contexto dos exemplos.
-   Compreenda o domínio do problema e as necessidades de cada base de dados em **[docs/material_apoio](docs/material_apoio)**.
+   Familiarize-se com os dados disponíveis em **[base_dados](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/base_dados)** para entender o contexto dos exemplos.
+   Compreenda o domínio do problema e as necessidades de cada base de dados em **[docs/](docs/)**.
 
 3. **Análise Exploratória**  
-   Revise os scripts em **[codigos/analise_exploratoria](codigos/analise_exploratoria/)** para aprender como manipular e explorar os dados com DuckDB e Python.
+   Revise os scripts em **[codigos/analise_exploratoria](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/codigos/analise_exploratoria)** para aprender como manipular e explorar os dados com DuckDB e Python.
 
-4. **Processos ETL**  
-   Aprofunde-se nas implementações em **[codigos/etl](codigos/etl/)** para compreender a extração, transformação e carga dos dados utilizando DuckDB.
-
-5. **Materiais Extras**  
-   Consulte conteúdos adicionais e complementares em **[docs/extras](docs/extras/)** para ampliar conhecimentos e práticas.
+4. **Outros Materiais**  
+   Consulte conteúdos adicionais e complementares em **[docs/](https://github.com/EstevaoMO/DuckDB_SHOWCASE/tree/main/docs)** para ampliar conhecimentos e práticas.
 
 Este percurso oferece uma abordagem estruturada para desenvolver um conhecimento sólido do uso de DuckDB no dia a dia de análise e preparação de dados.
